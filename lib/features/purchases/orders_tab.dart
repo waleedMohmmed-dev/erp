@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:web_erp/core/database/app_database.dart';
 
 import '../../core/database/app_database.dart';
 import '../../core/inventory/inventory_models.dart';
